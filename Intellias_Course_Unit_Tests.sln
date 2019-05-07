@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intellias_Course_Unit_Tests", "Intellias_Course_Unit_Tests\Intellias_Course_Unit_Tests.csproj", "{07A9AB59-C11E-41A8-AA39-F5070EECCF21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "BankTest\BankTest.csproj", "{C37A29E9-4634-498B-B004-228CFE542EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{07A9AB59-C11E-41A8-AA39-F5070EECCF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A9AB59-C11E-41A8-AA39-F5070EECCF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A9AB59-C11E-41A8-AA39-F5070EECCF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37A29E9-4634-498B-B004-228CFE542EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37A29E9-4634-498B-B004-228CFE542EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37A29E9-4634-498B-B004-228CFE542EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37A29E9-4634-498B-B004-228CFE542EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
