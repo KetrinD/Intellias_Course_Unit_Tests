@@ -48,7 +48,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BankAccountTests.cs" />
+    <Compile Include="BankAccountTests_Credit.cs" />
+    <Compile Include="BankAccountTests_Debit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
